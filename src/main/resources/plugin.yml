@@ -1,0 +1,5 @@
+name: CommandRemover
+version: '${project.version}'
+main: cz.astrixgame.commandremover.CommandRemover
+author: AstrixGame
+api-version: 1.19

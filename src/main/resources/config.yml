@@ -1,0 +1,30 @@
+nocommand: 'Unknown command. Type "/help" for help.'
+removed-commands:
+  - bukkit:pl
+  - bukkit:plugins
+  - bukkit:ver
+  - bukkit:version
+  - bukkit:?
+  - bukkit:about
+  - bukkit:help
+  - minecraft:help
+  - minecraft:msg
+  - minecraft:teammsg
+  - minecraft:tell
+  - minecraft:tm
+  - minecraft:trigger
+  - minecraft:w
+  - minecraft:me
+  - about
+  - ver
+  - '?'
+  - version
+  - pl
+  - plugins
+  - me
+  - msg
+  - teammsg
+  - tell
+  - tm
+  - trigger
+  - w
